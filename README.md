@@ -75,7 +75,7 @@
 [![Instagram](https://img.shields.io/badge/IG-%40farhan.sagor.12-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/farhan.sagor.12)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/sagor.official.0)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/sagor.official.0)
-[![Github](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/Sagor-BCZ)
+[![Github](https://img.shields.io/badge/Github-Sagor-BCZ?style=for-the-badge&logo=github)](https://github.com/Sagor-BCZ)
 
 ### ⚙️ &nbsp; Language & programming
 
