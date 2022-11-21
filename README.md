@@ -1,5 +1,4 @@
-
-![miniGif_20221012223706](https://user-images.githubusercontent.com/79738922/195400131-41369d85-6f22-4f3f-abd0-c2f6a60331d9.gif)
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-TEAM-BD-CYBER-ZONE-BCZ-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
