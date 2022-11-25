@@ -14,7 +14,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A passionate frontend developer from Bangladesh on Dhaka</h3>
+<h2 align="center">Read Namaz and achieve human peace.. There is success in Namaz..!🖤</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagor-BCZ&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Sagor-BCZ" /> </p>
 </i></b></h3>
