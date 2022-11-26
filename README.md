@@ -19,6 +19,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagor-BCZ&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Sagor-BCZ" /> </p>
 </i></b></h3>
 
+- MY PROFILE VISITORS :
+
+![Visitor Count](https://profile-counter.glitch.me/Sagor-BCZ/count.svg)
+
+- ![Profile views](https://gpvc.arturio.dev/Sagor-BCZ)
+- [![GitHub followers](https://img.shields.io/github/followers/Sagor-BCZ.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Sagor-BCZ?tab=followers)
+
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Sagor-BCZ"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Sagor-BCZ&theme=monokai"></a>
 
