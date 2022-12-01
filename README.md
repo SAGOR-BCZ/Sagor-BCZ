@@ -25,64 +25,64 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🥰 𝐍𝐀𝐌𝐄:- FARHAN TANZIM SAGOR
+ 🥰 𝐍𝐀𝐌𝐄:- FARHAN TANZIM SAGOR
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
--🌍 LOCATION:- DHAKA,BANGLADESH
+🌍 LOCATION:- DHAKA,BANGLADESH
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
--💚 RELATIONSHIP:- IN A RELATIONSHIP
+💚 RELATIONSHIP:- IN A RELATIONSHIP
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
--🥰 PROGRAMMEING LANGUAGE:- PYTHON & PHP OR JAVA
+🥰 PROGRAMMEING LANGUAGE:- PYTHON & PHP OR JAVA
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
--😻 FAVOURITE BOOK:- AL QURAN
+😻 FAVOURITE BOOK:- AL QURAN
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😵 𝐀𝐆𝐄:- 20
+😵 𝐀𝐆𝐄:- 20
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- HONOURS 2𝐍𝐃 𝐘𝐄𝐀𝐑
+📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- HONOURS 2𝐍𝐃 𝐘𝐄𝐀𝐑
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ❤ 𝐋𝐎𝐕𝐄𝐑:- MOTHER
+ ❤ 𝐋𝐎𝐕𝐄𝐑:- MOTHER
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👉 𝐈𝐍𝐒𝐋𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- 𝐌𝐘𝐒𝐄𝐋𝐅
+👉 𝐈𝐍𝐒𝐋𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- 𝐌𝐘𝐒𝐄𝐋𝐅
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌
+🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🌍𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [FARHAN TANZIM SAGOR](https://www.facebook.com/sagor.official.0)
+🌍𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [FARHAN TANZIM SAGOR](https://www.facebook.com/sagor.official.0)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👹𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [BD CYBER ZONE - BCZ](https://www.facebook.com/BCZ.OFFICIAL.01)
+👹𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [BD CYBER ZONE - BCZ](https://www.facebook.com/BCZ.OFFICIAL.01)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🌍𝐆𝐈𝐓𝐇𝐔𝐁:- [Sagor-BCZ](https://github.com/Sagor-BCZ)
+🌍𝐆𝐈𝐓𝐇𝐔𝐁:- [Sagor-BCZ](https://github.com/Sagor-BCZ)
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👭 BROTHER:- Mamun(Spider)
+👭 BROTHER:- Mamun(Spider)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ⚡ Fun fact **I think I am Cool and funny**
+⚡ Fun fact **I think I am Cool and funny**
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
