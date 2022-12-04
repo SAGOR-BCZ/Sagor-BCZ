@@ -137,32 +137,3 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/Sagor-BCZ/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Sagor-BCX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-</a>
-<a href="https://github.com/Sagor-BCZ/Farhan-Pro"><img title="Farhan-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=Farhan-Pro&theme=vision-friendly-dark">
-
-</a>
-<a href="https://github.com/Sagor-BCZ/2009"><img title="2009" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=2009&theme=vision-friendly-dark">
-
-</a>
-<a href="https://github.com/Sagor-BCZ/Farhan-2k9"><img title="Farhan-2k9" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=Farhan-2k9&theme=vision-friendly-dark">
-
-</a>
-<a href="https://github.com/Sagor-BCZ/NUMBER-PK"><img title="NUMBER-PK" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=NUMBER-PK&theme=vision-friendly-dark">
-
-</a>
-<a href="https://github.com/Sagor-BCZ/Farhan-Afg"><img title="Farhan-Afg" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=Mahadi-Afg&theme=vision-friendly-dark">
-
-</a>
-<a href="https://github.com/Sagor-BCZ/World-FD"><img title="World-FD" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=World-FD&theme=vision-friendly-dark">
-
-</a>
-<a href="https://github.com/Sagor-BCZ/Farhan-3x"><img title="Farhan-3x" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=Farhan-3x&theme=vision-friendly-dark">
-
-</a>
-<a href="https://github.com/Sagor-BCZ/FRIEND-CHECKER"><img title="FRIEND-CHECKER" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=FRIEND-CHECKER&theme=vision-friendly-dark">
-
-</a>
-<a href="https://github.com/Sagor-BCZ/HIGH-SPEED"><img title="HIGH-SPEED" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=HIGH-SPEED&theme=vision-friendly-dark">
-
-</a>
-<a href="https://github.com/Sagor-BCZ/CHECK"><img title="CHECK" src="https://github-readme-stats.vercel.app/api/pin/?username=Sagor-BCZ&repo=CHECK&theme=vision-friendly-dark">
