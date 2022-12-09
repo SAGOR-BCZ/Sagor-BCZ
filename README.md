@@ -31,6 +31,7 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Sagor-BCZ"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Sagor-BCZ&theme=monokai"></a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sagor-BCZ&theme=gruvbox_duo)](https://git.io/streak-stats)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
