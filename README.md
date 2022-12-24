@@ -10,7 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Farhan+Tanzim+Sagor;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 
 </p>
 
@@ -22,7 +21,7 @@
 
 
 </p>
-
+![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
